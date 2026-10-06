@@ -1,0 +1,12 @@
+[project]
+name = "neurona-riego-plantas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Simón Urbina", email = "simon.urbina@usantoto.edu.co" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.3",
+]
